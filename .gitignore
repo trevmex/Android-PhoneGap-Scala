@@ -1,0 +1,10 @@
+bin/
+.settings/
+.cache
+.project
+.classpath
+gen/
+project.properties
+proguard_cache/
+proguard_cache_conf/
+proguard-project.txt
